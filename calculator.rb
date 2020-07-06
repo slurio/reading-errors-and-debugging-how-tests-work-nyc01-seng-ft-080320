@@ -1,2 +1,2 @@
-first_number = 29 
+first_number = 29
 second_number = 1
